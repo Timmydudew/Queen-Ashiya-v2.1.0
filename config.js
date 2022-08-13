@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.owner = ['2348050261876']
+global.premium = ['2348050261876']
+global.botname = 'Akeno'
+global.ownername = 'Timmy'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.packname = 'Timmy'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
