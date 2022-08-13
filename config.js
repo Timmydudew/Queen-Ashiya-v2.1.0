@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['2348050261876']
-global.premium = ['2348050261876']
+global.owner = ['2348050261876','2349020899265']
+global.premium = ['2348050261876','2349020899265']
 global.botname = 'Akeno'
 global.ownername = 'Timmy'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
@@ -65,9 +65,9 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'Timmy'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
-global.sessionName = 'sessionb'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
